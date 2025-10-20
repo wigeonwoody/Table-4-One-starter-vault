@@ -35,3 +35,6 @@ Empty starter vault for a Table 4 One TTRPG game.
 		- Journal
 			- Create Build Journal
 			- Create Play Journal
+
+- 10/20/25 (Iron Vault branch)
+	- Installed [Iron Vault plugin](obsidian://show-plugin?id=iron-vault)

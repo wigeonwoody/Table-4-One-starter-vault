@@ -8,5 +8,6 @@
   "obsidian-text-expander-js",
   "dataview",
   "emoji-picker",
-  "templater-obsidian"
+  "templater-obsidian",
+  "iron-vault"
 ]
