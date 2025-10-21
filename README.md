@@ -38,3 +38,10 @@ Empty starter vault for a Table 4 One TTRPG game.
 
 - 10/20/25 (Iron Vault branch)
 	- Installed [Iron Vault plugin](obsidian://show-plugin?id=iron-vault)
+	- Created templates for
+		- Character
+		- Clock
+		- Progress
+	- Created campaign template
+	- Created Homebrew
+	- 
