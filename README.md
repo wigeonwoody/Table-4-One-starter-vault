@@ -44,4 +44,8 @@ Empty starter vault for a Table 4 One TTRPG game.
 		- Progress
 	- Created campaign template
 	- Created Homebrew
-	- 
+
+- 10/21/25 (Forged in a Galaxy branch)
+	- Setup Homebrew/forged_in_a_galaxy
+		- assets/path.yaml
+		- 
