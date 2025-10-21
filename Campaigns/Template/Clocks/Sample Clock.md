@@ -1,5 +1,5 @@
 ---
-name: Sample
+name: Sample Clock
 segments: 6
 progress: 0
 default-odds: no roll
