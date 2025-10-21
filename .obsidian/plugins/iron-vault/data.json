@@ -23,7 +23,7 @@
   "showMechanicsToggle": false,
   "hideMechanics": false,
   "inlineOnCreation": false,
-  "useHomebrew": false,
+  "useHomebrew": true,
   "homebrewPath": "Homebrew",
   "dataswornVersion": "0.1.0",
   "alwaysRecordActor": false,
