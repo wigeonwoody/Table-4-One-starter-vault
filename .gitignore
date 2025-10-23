@@ -1,3 +1,6 @@
 # Ignore obsidian cache files
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+
+# Ignore obsidian trash files
+.trash/
