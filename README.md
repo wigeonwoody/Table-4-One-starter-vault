@@ -44,4 +44,7 @@ Empty starter vault for a Table 4 One TTRPG game.
 		- Progress
 	- Created campaign template
 	- Created Homebrew
+
+- 10/28/25 (Iron Vault branch)
+	- Installed [Typewriter scroll plugin](obsidian://show-plugin?id=cm-typewriter-scroll-obsidian)
 	- 

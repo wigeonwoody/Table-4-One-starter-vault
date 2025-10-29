@@ -9,5 +9,6 @@
   "dataview",
   "emoji-picker",
   "templater-obsidian",
-  "iron-vault"
+  "iron-vault",
+  "cm-typewriter-scroll-obsidian"
 ]
